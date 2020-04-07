@@ -156,7 +156,28 @@ I [blog](http://nimothvillage.github.io/blog.html) the journey of an Electrical 
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script></p>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5765.106685110442!2d76.3620185731928!3d28.268932880250354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3912a6c92c5faac3%3A0xbd6e66b98eca811a!2sNimoth%2C%20Haryana%20123411!5e1!3m2!1sen!2sin!4v1586270742859!5m2!1sen!2sin" width="600" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></center>
+<style>
+    .google-maps {
+        position: relative;
+        padding-bottom: 75%; // This is the aspect ratio
+        height: 0;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+    }
+</style>
+
+<div class="google-maps">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5765.106685110442!2d76.3620185731928!3d28.268932880250354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3912a6c92c5faac3%3A0xbd6e66b98eca811a!2sNimoth%2C%20Haryana%20123411!5e1!3m2!1sen!2sin!4v1586270742859!5m2!1sen!2sin" width="600" height="40" frameborder="0" style="border:0"></iframe>
+</div>
+
+<!-- <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5765.106685110442!2d76.3620185731928!3d28.268932880250354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3912a6c92c5faac3%3A0xbd6e66b98eca811a!2sNimoth%2C%20Haryana%20123411!5e1!3m2!1sen!2sin!4v1586270742859!5m2!1sen!2sin" width="600" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></center>
+ -->
 
   </div>
 
