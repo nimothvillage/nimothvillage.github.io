@@ -3,13 +3,22 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/profile.jpg ">
+<!-- <img style="float: center; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/baba_main.jpg ">
+ -->
+|      <img src="{{ site.url }}/assets/baba_main.jpg">     | 
+|:-------------:|
+| *बाबा बिशंददास मंदिर, ग्राम निमोठ* |
 
-My name is Anshul Yadav, and I am a Junior Undergraduate in Electrical Engineering at [Indian Institue of Technology Delhi](http://iitd.ac.in). I am interested in Deep Learning, Pattern Recognition, Computer Vision, Speech Processing and Recognition and Robotics.
+My बाबा बिशंददास मंदिर ग्राम निमोठ हरियाणा भारत Engineering at [Indian Institue of Technology Delhi](http://iitd.ac.in). I am interested in Deep Learning, Pattern Recognition, Computer Vision, Speech Processing and Recognition and Robotics.
 
 I maintain a list of my research projects and implementations under the [Research]({{ site.url }}/research) tab. To get an insight on my professional life so far, you can have a look at my [CV]({{ site.url }}/cv).
 
 I [blog]({{ site.url }}/blog.html) the journey of an Electrical Engineer delving deeper into Neural Networks and Machine Learning every now and then compiling my personal experiences. Feel free to read a bit [more about me]({{ site.url }}/about)!
+
+<a class="weatherwidget-io" href="https://forecast7.com/en/28d2776d37/nimoth/" data-label_1="NIMOTH" data-label_2="WEATHER" data-theme="original" >NIMOTH WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
 
 #### Updates
 

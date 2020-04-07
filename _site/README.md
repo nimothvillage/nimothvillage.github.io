@@ -26,4 +26,4 @@ To push changes to github
 git add .
 git commit -m"[commit message]"
 git push origin master
-```
+```# nimothvillage.github.io
