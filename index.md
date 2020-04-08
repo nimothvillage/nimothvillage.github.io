@@ -51,12 +51,14 @@ I [blog]({{ site.url }}/blog.html) the journey of an Electrical Engineer delving
 
 <iframe src="http://free.timeanddate.com/clock/i78c7ijl/n423/tlin7/ftb/th1/ta1" frameborder="0" width="84" height="18"></iframe>
 
-<!-- weather widget -->
-<a class="weatherwidget-io" href="https://forecast7.com/en/28d2776d37/nimoth/" data-label_1="NIMOTH" data-label_2="WEATHER" data-theme="original" >NIMOTH WEATHER</a>
+<!-- weather widget https://weatherwidget.io/ -- >
+<a class="weatherwidget-io" href="https://forecast7.com/en/28d2776d37/nimoth/" data-label_1="NIMOTH" data-label_2="WEATHER" data-theme="pure" >NIMOTH WEATHER</a>
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
 
+
+<!-- google maps widget -->
 <style>
     .google-maps {
         position: relative;
