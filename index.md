@@ -24,24 +24,19 @@ I [blog]({{ site.url }}/blog.html) the journey of an Electrical Engineer delving
 <table>
 <col width="120px">
 <col width="650px">
-<tr><td><b>October 2019:</b></td><td>Accepted Summer Internship offer at Oracle Corporation, Bangalore! </td>
+<tr><td><b>Mar 2020:</b></td><td>In view of the prevailing situation due to COVID19 people are advised to stay at home </td>
 </tr>
-<tr><td><b>Summer 2019:</b></td><td> Interned with <a href="https://sites.google.com/site/arpanchattop/">Professor Arpan Chattopadhyay</a> working on False Data Injection Attack.</td>
+<tr><td><b>Mar 2020:</b></td><td>COVID19: Don't hoard groceries and essentials. Please ensure that people who are in need don't face a shortage because of you!</td>
 </tr>
-<tr><td><b>March 2019:</b></td><td>Started a <a href="https://anshul3899.github.io/blog.html">blog</a> on the journey of an Electrical Engineer delving deeper into Neural Networks and Machine Learning. </td>
+<tr><td><b>Mar 2020:</b></td><td>COVID19: Wash your hands with soap and water often, especially after a grociery run. Keep the virus at bay. </td>
 </tr>
-<tr><td><b>Winter 2018:</b></td><td> Interned with <a href="http://web.iitd.ac.in/~lalank/">Prof. Lalan Kumar</a> working on Head Related Transfer Function representation using Hemispherical Harmonics. </td>
+<tr><td><b>Mar 2020:</b></td><td>In view of the prevailing situation due to COVID19 people are advised to stay at home </td>
 </tr>
-<tr><td><b>Summer 2018:</b></td><td> Worked on PS4 controlled Robotic arm with gripper in Robotics Club IIT Delhi.</td>
+<tr><td><b>Mar 2020:</b></td><td>COVID19: Don't hoard groceries and essentials. Please ensure that people who are in need don't face a shortage because of you!</td>
 </tr>
-<tr><td><b>July 2017:</b></td><td> Started as an Electrical Engineering Undergraduate student at IIT Delhi!</td>
+<tr><td><b>Mar 2020:</b></td><td>COVID19: Wash your hands with soap and water often, especially after a grociery run. Keep the virus at bay. </td>
 </tr>
-<tr><td><b>Winter 2018:</b></td><td> Interned with <a href="http://web.iitd.ac.in/~lalank/">Prof. Lalan Kumar</a> working on Head Related Transfer Function representation using Hemispherical Harmonics. </td>
-</tr>
-<tr><td><b>Summer 2018:</b></td><td> Worked on PS4 controlled Robotic arm with gripper in Robotics Club IIT Delhi.</td>
-</tr>
-<tr><td><b>July 2017:</b></td><td> Started as an Electrical Engineering Undergraduate student at IIT Delhi!</td>
-</tr>
+
 </table>
 </div>
 
@@ -51,12 +46,11 @@ I [blog]({{ site.url }}/blog.html) the journey of an Electrical Engineer delving
 
 <iframe src="http://free.timeanddate.com/clock/i78c7ijl/n423/tlin7/ftb/th1/ta1" frameborder="0" width="84" height="18"></iframe>
 
-<!-- weather widget https://weatherwidget.io/ -- >
-<a class="weatherwidget-io" href="https://forecast7.com/en/28d2776d37/nimoth/" data-label_1="NIMOTH" data-label_2="WEATHER" data-theme="pure" >NIMOTH WEATHER</a>
+<!-- weather widget -->
+<a class="weatherwidget-io" href="https://forecast7.com/en/28d2776d37/nimoth/" data-label_1="NIMOTH" data-label_2="WEATHER" data-theme="original" >NIMOTH WEATHER</a>
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
-
 
 <!-- google maps widget -->
 <style>
@@ -81,3 +75,18 @@ I [blog]({{ site.url }}/blog.html) the journey of an Electrical Engineer delving
 
 <!-- <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5765.106685110442!2d76.3620185731928!3d28.268932880250354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3912a6c92c5faac3%3A0xbd6e66b98eca811a!2sNimoth%2C%20Haryana%20123411!5e1!3m2!1sen!2sin!4v1586270742859!5m2!1sen!2sin" width="600" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></center>
  -->
+
+
+<br>
+
+<center>
+<div id="google_translate_element"></div>
+</center>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
