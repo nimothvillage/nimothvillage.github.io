@@ -6,7 +6,7 @@ layout: page
 
 |      <img style="float: center; width: 55%; padding: 5px;" src=" {{ site.url }}/assets/baba_main.jpg ">    | 
 |:-------------:|
-| *बाबा बिशंददास मंदिर, ग्राम निमोठ* |
+| *बाबा बिशंदास मंदिर, ग्राम निमोठ* |
 
 <br>
 
